@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://sl33p.github.io/atom.xml" rel="self"/>
   <link href="http://sl33p.github.io/"/>
-  <updated>2014-03-27T13:41:03+00:00</updated>
+  <updated>2014-03-27T13:58:22+00:00</updated>
   <id>http://sl33p.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hellow world]]></title>
+    <link href="http://sl33p.github.io/blog/2014/03/27/hellow-world/"/>
+    <updated>2014-03-27T13:51:25+00:00</updated>
+    <id>http://sl33p.github.io/blog/2014/03/27/hellow-world</id>
+    <content type="html"><![CDATA[<p>hellow world</p>
+]]></content>
+  </entry>
   
 </feed>
